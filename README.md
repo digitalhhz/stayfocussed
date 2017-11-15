@@ -9,3 +9,6 @@ Additionally, our goal was to build a service based on our solution. Therefore, 
 For more details see our [Project Wiki](https://github.com/jules185/IoT_Hackathon/wiki).
 
 ![mockup](https://github.com/jules185/IoT_Hackathon/blob/master/Deliverables/Documentation/Service%20Design/Overview_Mockup.PNG)
+
+
+Link to original repository: https://github.com/jules185/IoT_Hackathon/wiki
