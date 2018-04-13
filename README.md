@@ -1,3 +1,5 @@
+Link to original repository: https://github.com/jules185/IoT_Hackathon/wiki
+
 # StayFocussed
 
 StayFocussed is a service enabling improved concentration during lectures, more flexible scheduling of breaks, enhanced productivity, unified break starts and ends. The complete service was implemented and designed in a two day Hackathon.
@@ -9,6 +11,3 @@ Additionally, our goal was to build a service based on our solution. Therefore, 
 For more details see our [Project Wiki](https://github.com/jules185/IoT_Hackathon/wiki).
 
 ![mockup](https://github.com/jules185/IoT_Hackathon/blob/master/Deliverables/Documentation/Service%20Design/Overview_Mockup.PNG)
-
-
-Link to original repository: https://github.com/jules185/IoT_Hackathon/wiki
